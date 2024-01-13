@@ -3,6 +3,7 @@ Automation of HR process to create spreadsheets of candidates SparkHire intervie
 
 ## Background
 This project was done in collaboration with one other student automation specialist in the Student Automation Team of the University of Minnesota Office of Information Technology.
+I have received written permission from their HR team to describe the process and showcase the script on my public portfolio.
 
 ## Process
 1. After each candidate interview, a recruiter fills out the SparkHire Review Google Form. The data input includes:
