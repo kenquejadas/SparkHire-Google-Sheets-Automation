@@ -1,4 +1,4 @@
-# SparkHire-Google-Sheets-Automation
+# User-Friendly Interview Candidate Spreadsheet Process
 Automation of HR process to create spreadsheets of candidates SparkHire interview data upon data entry into a Google Form
 
 ## Background
